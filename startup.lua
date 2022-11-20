@@ -35,3 +35,4 @@ do
         turtle.dig("left")
     end
     turtle.turnRight()
+end
