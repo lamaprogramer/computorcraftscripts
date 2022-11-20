@@ -9,6 +9,7 @@ do
         if (turtle.forward(1) ~= true) then
             turtle.dig("left")
         end
+    end
 
 
     turtle.turnLeft()
@@ -27,6 +28,7 @@ do
         if (turtle.forward(1) ~= true) then
             turtle.dig("left")
         end
+    end
     
     turtle.turnRight()
     if (turtle.forward(1) ~= true) then
