@@ -42,3 +42,5 @@ sendInput:onClick(function(self, event, button, x, y)
         end
     end
 end)
+
+basalt.autoUpdate()
